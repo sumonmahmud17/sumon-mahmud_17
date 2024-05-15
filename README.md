@@ -22,7 +22,7 @@ Hello! I’m Sumon, a passionate student at Yokohama System Engineering College,
 - **Description:** A brief description of the project.
 - **Technologies Used:** List the technologies used in the project.
 
-### [Project Name 2](link-to-project)
+### [Project Name 2](my_shop)
 - **Description:** A brief description of the project.
 - **Technologies Used:** List the technologies used in the project.
 
@@ -38,8 +38,8 @@ Hello! I’m Sumon, a passionate student at Yokohama System Engineering College,
     - Responsibility 2
 
 ## Certifications
-- [Certification Name](link-to-certification)
-- [Certification Name](link-to-certification)
+- [Webクリエイター能力認定試験／HTML5](link-to-certification)
+- [情報処理技術者能力認定試験](link-to-certification)
 
 ## Contact Information
 - **Email:** [sumonmahmud466@gmail.com](230034jy@yse-c.com)
