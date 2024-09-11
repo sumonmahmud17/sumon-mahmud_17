@@ -43,5 +43,5 @@ Hello! I’m Sumon, a passionate student at Yokohama System Engineering College,
 
 ## Contact Information
 - **Email:** [sumonmahmud466@gmail.com](230034jy@yse-c.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
+- **LinkedIn:** https://www.linkedin.com/in/sumon-hasan-mahmud-b39a72315/
 
